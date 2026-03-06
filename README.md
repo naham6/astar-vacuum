@@ -1,4 +1,10 @@
 # Autonomous Vacuum Cleaner
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 A visual simulation of an autonomous vacuum cleaner navigating a room to clean multiple dirt piles while avoiding obstacles. The robot's pathfinding is powered by the **A* (A-Star) Search Algorithm** and optimized using a **Minimum Spanning Tree (MST)** heuristic to calculate the most efficient cleaning route.
 
 ## Core Concepts
