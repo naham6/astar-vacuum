@@ -8,6 +8,7 @@ A* is a popular and powerful graph traversal and pathfinding algorithm. It is hi
 A* works by evaluating nodes based on two factors:
 1.  **g-cost:** The exact cost of the path from the starting point to the current node.
 2.  **h-cost (Heuristic):** An estimated cost from the current node to the final goal.
+
 The algorithm calculates the total cost, **f = g + h**, and prioritizes exploring paths with the lowest 'f' value.
 
 ### Heuristic
